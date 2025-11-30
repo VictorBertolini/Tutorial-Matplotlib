@@ -28,7 +28,7 @@ plt.show()
 
 Assim, teremos: 
 
-![Gráfico Básico](/images/Gráfico%20-%20Código%20Básico.png)
+![Gráfico Básico](/im)
 
 ## Adicionando Labels 
 Para facilitar a compreensão do gráfico, coloca-se título e o que cada eixo representa:
@@ -42,7 +42,7 @@ plt.ylabel("Temperatura (°C)")
 
 Melhorando muito mais a visualização e entendimento das informações contidas nele:
 
-![Gráfico - Labels](/images/Gráfico%20-%20Labels.png)
+![Gráfico - Labels](/images/Gráfico%20-%20Codigo%20Basico.png)
 
 
 ## Adicionando um novo dado para comparação
@@ -176,5 +176,6 @@ Ao invés de dar um `show()` para mostrar o gráfico, pode-se salvar a imagem co
 plt.savefig(<file name>)
 ```
 E irá aparecer junto aos arquivos
+
 
 
